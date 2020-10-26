@@ -1,2 +1,2 @@
 # Data-Mining
-SoftDes Project 2 - analysis of movie remakes
+SoftDes Project 2 - an analysis of movie remakes
